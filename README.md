@@ -1,4 +1,3 @@
-# Blockchain Final Projesi
 
 Bu proje, blockchain teknolojisi kullanılarak geliştirilmiş bir akıllı kontrat uygulamasıdır.
 
